@@ -1,0 +1,510 @@
+.body {
+  background-color: white;
+}
+
+h1 {
+  margin-top: 0;
+  padding-bottom: 0;
+  font-family: cursive;
+  color: black;
+  float: left;
+  padding-left: 20px;
+  font-size: 60px;
+}
+
+br {
+  padding: 0 0 0;
+}
+
+
+hr {
+
+}
+
+
+h2 {
+color: gold;
+float: center;
+font-family: serif;
+font-size: 50px;
+}
+
+
+p {
+  font-family: sans-serif;
+  color: black;
+  font-size: 30px;
+}
+
+
+
+h3 {
+  font-family: serif;
+  color: gold;
+  font-size: 30px;
+}
+
+.bellingham {
+padding-right: 20px;
+  width: 30%;
+}
+
+
+
+.nico-w {
+padding-left: 300px;
+width: 70%;
+}
+
+
+
+.nico-williams {
+  padding-left: 300px;
+  width: 70%;
+}
+
+
+
+li {
+  font-size: 29px;
+}
+
+
+
+
+.pee {
+  padding-left: 300px;
+}
+
+
+.na {
+  padding-left: 300px;
+}
+
+.per {
+  padding-left: 300px;
+  width: 60%;
+}
+element.style {
+}
+#b_mcw, #b_topw {
+    width: var(--wideansw);
+}
+#b_topw {
+    margin-bottom: 80px;
+    position: relative;
+}
+html, body, h1, h2, h3, h4, h5, h6, p, img, ol, ul, li, form, table, tr, th, td {
+    border: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+ol {
+    display: block;
+    list-style-type: decimal;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    padding-inline-start: 40px;
+    unicode-bidi: isolate;
+}
+@media (max-width: 883.9px) {
+    #b_mcw {
+        --wideansw: 964px;
+    }
+}
+@media (max-width: 1274.9px) {
+    #b_mcw {
+        --wideansw: 984px;
+    }
+}
+@media (max-width: 1362.9px) {
+    #b_mcw {
+        --wideansw: 1072px;
+    }
+}
+@media (max-width: 1406.9px) {
+    #b_mcw {
+        --wideansw: 1160px;
+    }
+}
+#b_mcw {
+    --wideansw: 1200px;
+    display: inline-block;
+}
+@media (max-width: 1043.9px) {
+    .b_respl #b_content {
+        --lgutter: 18px;
+        --lgutterrev: -18px;
+        --polepadl: 38px;
+        --polepadl2: 38px;
+        --dtabpadl: 12px;
+        --crleft: 706px;
+        --bzaimgoffsetx: -145px;
+    }
+}
+@media (max-width: 1091.9px) {
+    .b_respl #b_content {
+        --lgutter: 66px;
+        --lgutterrev: -66px;
+        --polepadl: 86px;
+        --polepadl2: 86px;
+        --dtabpadl: 62px;
+        --crleft: 754px;
+        --bzaimgoffsetx: -97px;
+    }
+}
+@media (max-width: 1138.9px) {
+    .b_respl #b_content {
+        --lgutter: 113px;
+        --lgutterrev: -113px;
+        --polepadl: 133px;
+        --polepadl2: 133px;
+        --dtabpadl: 125px;
+        --crleft: 801px;
+        --bzaimgoffsetx: -50px;
+    }
+}
+@media (max-width: 883.9px) {
+    #b_content {
+        --rgutter: 20px;
+        --crleft: 828px;
+    }
+}
+@media (max-width: 1406.9px) {
+    #b_content {
+        --rgutter: 40px;
+        --crleft: 848px;
+    }
+}
+#b_content, #b_context, #b_rrat_cont, .b_expando {
+    line-height: 1.2em;
+}
+body {
+    --video-metadata-channel-color: #3c3c3c;
+}
+@media (max-width: 1274.9px) {
+    body {
+        --bminwidth: 1164px;
+    }
+}
+@media (max-width: 1362.9px) {
+    body {
+        --bminwidth: 1232px;
+    }
+}
+body {
+    --cib-header: 94px;
+}
+body, .b_no h4, h2 .b_secondaryText, h2 .b_alert, .b_underSearchbox, #b_header {
+    font: 14px / normal 'Roboto', Helvetica, Sans-Serif;
+}
+body, .b_promoteText, #b_tween a.ftrH:hover, .b_expando, .b_expando h2, .b_active a, .b_active a:visited, .b_active a:hover, #b_results>.b_pag a, #b_results .b_no, #b_content a.cbl:visited, #b_content a.cbl {
+    color: #71777d;
+}
+:root {
+    --acf-back-neutral-primary: var(--smtc-background-card-on-primary-default-rest);
+    --acf-back-neutral-secondary: var(--smtc-background-card-on-primary-default-hover);
+    --acf-back-neutral-tertiary: var(--smtc-background-card-on-primary-default-pressed);
+    --acf-back-neutral-black: var(--mai-smtc-background-ctrl-on-image-rest);
+    --acf-back-neutral-black-transparent: var(--bing-smtc-background-ctrl-fade-on-image-stop-0);
+    --acf-fore-neutral-primary: var(--smtc-foreground-content-neutral-primary);
+    --acf-fore-neutral-secondary: var(--smtc-foreground-content-neutral-secondary);
+    --acf-fore-neutral-tertiary: var(--bing-smtc-foreground-content-neutral-secondary-alt);
+    --acf-fore-neutral-quaternary: var(--bing-smtc-foreground-content-neutral-tertiary);
+    --acf-fore-neutral-white: var(--mai-smtc-foreground-ctrl-on-image-rest);
+    --acf-stroke-neutral-decorative: var(--smtc-stroke-ctrl-on-neutral-rest);
+    --acf-other-neutral-transparent-dark: var(--bing-smtc-background-ctrl-image-placeholder-default);
+    --acf-other-neutral-transparent-light: var(--bing-smtc-background-ctrl-fade-on-primary-stop-0);
+    --acf-fill-accent-primary: var(--bing-smtc-background-ctrl-brand-rest);
+    --acf-fill-accent-secondary: var(--smtc-background-ctrl-brand-hover);
+    --acf-fill-accent-tertiary: var(--smtc-background-ctrl-brand-pressed);
+    --acf-fore-on-accent-primary: var(--smtc-foreground-ctrl-on-brand-rest);
+    --acf-fore-on-accent-secondary: var(--smtc-foreground-ctrl-on-brand-hover);
+    --acf-fore-on-accent-tertiary: var(--smtc-foreground-ctrl-on-brand-pressed);
+    --acf-fill-accent-alt-primary: var(--bing-smtc-background-ctrl-neutral-rest);
+    --acf-fill-accent-alt-secondary: var(--smtc-background-ctrl-neutral-hover);
+    --acf-fill-accent-alt-tertiary: var(--smtc-background-ctrl-neutral-pressed);
+    --acf-fore-on-accent-alt-primary: var(--bing-smtc-foreground-content-brand-rest);
+    --acf-fore-on-accent-alt-secondary: var(--smtc-foreground-ctrl-neutral-primary-hover);
+    --acf-fore-on-accent-alt-tertiary: var(--smtc-foreground-ctrl-neutral-primary-pressed);
+    --acf-back-accent-primary: var(--bing-smtc-background-card-on-primary-alt-rest);
+    --acf-back-accent-secondary: var(--bing-smtc-background-card-on-primary-alt-hover);
+    --acf-back-accent-tertiary: var(--bing-smtc-background-card-on-primary-alt-pressed);
+    --acf-back-accent-quaternary: var(--smtc-background-card-on-primary-alt-disabled);
+    --acf-serp-accent-primary: var(--smtc-ctrl-input-background-rest);
+    --acf-serp-accent-secondary: var(--smtc-ctrl-input-background-pressed);
+    --acf-stroke-accent-primary: var(--smtc-stroke-ctrl-on-outline-rest);
+    --acf-stroke-accent-secondary: var(--smtc-stroke-ctrl-on-outline-hover);
+    --acf-stroke-accent-tertiary: var(--smtc-stroke-ctrl-on-outline-pressed);
+}
+:root {
+    --AC_ThemeFore1: var(--bing-smtc-foreground-content-brand-rest);
+    --AC_ThemeFore2: var(--smtc-background-ctrl-brand-hover);
+    --AC_ThemeBack1: var(--bing-smtc-background-card-on-primary-alt-rest);
+    --AC_ThemeBack2: var(--bing-smtc-background-card-on-primary-alt-rest);
+    --AC_ThemeBack3: var(--bing-smtc-background-card-on-primary-alt-pressed);
+    --AC_NeutralFore1: var(--smtc-foreground-content-neutral-primary);
+    --AC_NeutralFore2: var(--smtc-foreground-content-neutral-secondary);
+    --AC_NeutralFore3: var(--bing-smtc-foreground-content-neutral-secondary-alt);
+    --AC_NeutralFore4: var(--bing-smtc-foreground-content-neutral-tertiary);
+    --AC_Margin: var(--mai-smtc-padding-card-default);
+    --AC_Padding: var(--mai-smtc-padding-card-default);
+    --AC_BorderRadius: var(--smtc-corner-card-rest);
+    --AC_FontSize: 14px;
+    --AC_LineHeight: 20px;
+    --AC_FontWeight: 400;
+}
+:root {
+    --brdcol: #ddd;
+    --secbrdcol: #ececec;
+    --promtxt: #111;
+    --secpromtxt: #444;
+    --regtxt: #666;
+    --sectxt: #767676;
+    --htmlbk: #fff;
+    --cardsbk: #f5f5f5;
+    --cardsbk2: #f5f5f5;
+    --canvasbk2: #fff;
+    --canvasbk3: b-lighterGray;
+    --tealcol2: #00809d;
+}
+:root {
+    --lgutter: 160px;
+    --lgutterrev: -160px;
+    --polepadl: 180px;
+    --polepadl2: 120px;
+    --dtabpadl: 170px;
+    --rgutter: 80px;
+    --crleft: 888px;
+    --bminwidth: 1320px;
+}
+html {
+    --bing-smtc-background-card-on-primary-alt-gradient-stop-1: #f0f3ff;
+    --bing-smtc-background-card-on-primary-alt-hover: #e4e8f7;
+    --bing-smtc-background-card-on-primary-alt-pressed: #d7ddf2;
+    --bing-smtc-background-card-on-primary-alt-rest: #f0f3ff;
+    --bing-smtc-background-ctrl-active-brand-hover: #e4e8f7;
+    --bing-smtc-background-ctrl-active-brand-rest: #f0f3ff;
+    --bing-smtc-background-ctrl-brand-rest: #4f6bed;
+    --bing-smtc-background-ctrl-fade-on-primary-stop-1: #f7f9fe;
+    --bing-smtc-background-ctrl-ghost-hover: #c9cfed;
+    --bing-smtc-background-ctrl-ghost-pressed: #b8bfe1;
+    --bing-smtc-background-ctrl-neutral-rest: #d9dffb;
+    --bing-smtc-background-ctrl-outline-hover: #c9cfed;
+    --bing-smtc-background-ctrl-outline-pressed: #b8bfe1;
+    --bing-smtc-ctrl-background-fade-stop-0: rgba(240, 243, 255, 0);
+    --bing-smtc-ctrl-citation-background-hover: #e4e8f7;
+    --bing-smtc-ctrl-citation-background-pressed: #d7ddf2;
+    --bing-smtc-ctrl-citation-background-rest: #f0f3ff;
+    --bing-smtc-ctrl-citation-foreground-hover: #3b50b2;
+    --bing-smtc-ctrl-citation-foreground-pressed: #2f408e;
+    --bing-smtc-ctrl-citation-foreground-rest: #4f6bed;
+    --bing-smtc-ctrl-citation-on-card-background-hover: #c9cfed;
+    --bing-smtc-ctrl-citation-on-card-background-rest: #d9dffb;
+    --bing-smtc-ctrl-highlight-ring-stroke-stop-1: #4f6bed;
+    --bing-smtc-ctrl-highlight-ring-stroke-stop-2: #2f408e;
+    --bing-smtc-ctrl-link-foreground-brand-rest: #3c51b4;
+    --bing-smtc-ctrl-skeleton-background-default-layer-1-stop-1: #4f6bed;
+    --bing-smtc-ctrl-spinner-backdrop-background: rgba(240, 243, 255, .85);
+    --bing-smtc-ctrl-tab-in-card-background-hover: #c9cfed;
+    --bing-smtc-ctrl-tab-in-card-background-pressed: #b8bfe1;
+    --bing-smtc-ctrl-tab-in-card-background-selected: #d9dffb;
+    --bing-smtc-foreground-content-brand-hover: #2d3d88;
+    --bing-smtc-foreground-content-brand-pressed: #24316d;
+    --bing-smtc-foreground-content-brand-rest: #3c51b4;
+    --bing-smtc-foreground-ctrl-neutral-primary-alt-rest: #3c51b4;
+    --bing-smtc-foreground-ctrl-on-transparent-rest: #4f6bed;
+    --bing-smtc-foreground-image-placeholder-default: #d9dffb;
+    --bing-smtc-status-brand-background: #4f6bed;
+    --mai-smtc-background-card-on-primary-alt-selected: #d9dffb;
+    --mai-smtc-choice-switch-background-selected-hover: #3b50b2;
+    --mai-smtc-choice-switch-background-selected-pressed: #2f408e;
+    --mai-smtc-choice-switch-background-selected-rest: #4f6bed;
+    --mai-smtc-ctrl-choice-switch-stroke-hover: #3b50b2;
+    --mai-smtc-ctrl-choice-switch-stroke-pressed: #2f408e;
+    --mai-smtc-ctrl-choice-switch-stroke-rest: #4f6bed;
+    --mai-smtc-ctrl-choice-switch-thumb-background-selected-rest: #fff;
+    --smtc-background-card-on-primary-alt-disabled: #f7f9fe;
+    --smtc-background-card-on-primary-alt-hover: #c9cfed;
+    --smtc-background-card-on-primary-alt-pressed: #b8bfe1;
+    --smtc-background-card-on-primary-alt-rest: #d9dffb;
+    --smtc-background-card-on-secondary-alt-rest: #d9dffb;
+Show all properties (67 more)
+}
+html {
+    --bing-ads-smtc-algo-title-gap-between-content: 0px;
+    --bing-ads-smtc-algo-url-font-weight: 400;
+    --bing-smtc-corner-flyout-popover-rest: 16px;
+    --bing-smtc-padding-ctrl-icon-only-text-bottom: 4px;
+    --bing-smtc-padding-ctrl-icon-only-text-top: 4px;
+    --bing-smtc-padding-ctrl-text-side-large: 4px;
+    --bing-smtc-padding-ctrl-xlg-horizontal-default: 20px;
+    --bing-smtc-padding-ctrl-xlg-text-bottom: 16px;
+    --bing-smtc-padding-ctrl-xlg-text-top: 16px;
+    --bing-smtc-padding-ctrl-xs-horizontal: 4px;
+    --bing-smtc-text-global-display1: normal 700 54px / 64px var(--acf-font-family);
+    --bing-smtc-text-global-display2: normal 700 40px / 48px var(--acf-font-family);
+    --bing-smtc-text-global-title1: normal 700 36px / 48px var(--acf-font-family);
+    --bing-smtc-text-global-title2: normal 700 24px / 32px var(--acf-font-family);
+    --mai-smtc-corner-ctrl-xlg-rest: 16px;
+    --mai-smtc-corner-favicon: 4px;
+    --mai-smtc-corner-list-card-nested-default: 8px;
+    --mai-smtc-padding-card-default: 20px;
+    --mai-smtc-padding-list-card-default: 8px;
+    --smtc-corner-card-rest: 24px;
+    --smtc-corner-circular: 9999px;
+    --smtc-corner-ctrl-hover: 8px;
+    --smtc-corner-ctrl-lg-hover: 8px;
+    --smtc-corner-ctrl-lg-pressed: 8px;
+    --smtc-corner-ctrl-lg-rest: 8px;
+    --smtc-corner-ctrl-pressed: 8px;
+    --smtc-corner-ctrl-rest: 8px;
+    --smtc-corner-ctrl-sm-hover: 4px;
+    --smtc-corner-ctrl-sm-pressed: 4px;
+    --smtc-corner-ctrl-sm-rest: 4px;
+    --smtc-corner-flyout-rest: 8px;
+    --smtc-ctrl-badge-corner: 8px;
+    --smtc-ctrl-badge-gap: 4px;
+    --smtc-ctrl-badge-padding: 8px;
+    --smtc-ctrl-badge-sm-corner: 4px;
+    --smtc-ctrl-badge-sm-padding: 4px;
+    --smtc-ctrl-badge-sm-text-padding-bottom: 2px;
+    --smtc-ctrl-badge-sm-text-padding-top: 2px;
+    --smtc-ctrl-choice-checkbox-corner: 4px;
+    --smtc-ctrl-list-corner-hover: 4px;
+    --smtc-ctrl-list-corner-pressed: 4px;
+    --smtc-ctrl-list-corner-rest: 4px;
+    --smtc-gap-between-content-medium: 16px;
+    --smtc-gap-between-content-small: 12px;
+    --smtc-gap-between-content-x-large: 24px;
+    --smtc-gap-between-content-x-small: 8px;
+    --smtc-gap-between-content-xx-large: 36px;
+    --smtc-gap-between-content-xx-small: 4px;
+    --smtc-gap-between-content-xxx-small: 2px;
+    --smtc-gap-inside-ctrl-lg-to-secondary-icon: 8px;
+Show all properties (14 more)
+}
+html {
+    --bing-ads-smtc-ad-slug-stroke: #f9f9f9;
+    --bing-ads-smtc-desktop-foreground-ad-slug-default: #666;
+    --bing-ads-smtc-desktop-foreground-snippet-default: #71777d;
+    --bing-ads-smtc-mobile-foreground-ad-slug-default: #666;
+    --bing-ads-smtc-mobile-foreground-snippet-default: #444;
+    --bing-smtc-background-card-on-image-default: #fff;
+    --bing-smtc-background-container: #fff;
+    --bing-smtc-background-container-alt: rgba(0, 0, 0, .03);
+    --bing-smtc-background-container-highlight: rgba(0, 0, 0, .08);
+    --bing-smtc-background-ctrl-fade-on-image-stop-0: rgba(0, 0, 0, 0);
+    --bing-smtc-background-ctrl-fade-on-primary-stop-0: rgba(255, 255, 255, 0);
+    --bing-smtc-background-ctrl-image-placeholder-default: rgba(0, 0, 0, .1);
+    --bing-smtc-background-ctrl-on-image-switchable-hover: rgba(0, 0, 0, .8);
+    --bing-smtc-background-ctrl-on-image-switchable-pressed: rgba(0, 0, 0, .75);
+    --bing-smtc-background-ctrl-on-image-switchable-rest: #000;
+    --bing-smtc-background-ctrl-subtle-hover: #f5f5f5;
+    --bing-smtc-background-ctrl-subtle-pressed: #ededed;
+    --bing-smtc-background-on-container-card: #fff;
+    --bing-smtc-background-overlay: #fff;
+    --bing-smtc-background-with-material-citation: #fff;
+    --bing-smtc-background-with-material-overlay: #fff;
+    --bing-smtc-ctrl-carousel-alt-stop-0: rgba(255, 255, 255, 0);
+    --bing-smtc-ctrl-carousel-stop-0: rgba(255, 255, 255, 0);
+    --bing-smtc-ctrl-choice-switch-background-hover: rgba(0, 0, 0, .75);
+    --bing-smtc-ctrl-choice-switch-background-pressed: rgba(0, 0, 0, .8);
+    --bing-smtc-ctrl-choice-switch-stroke-neutral-rest: #444;
+    --bing-smtc-ctrl-favicon-background: #f5f5f5;
+    --bing-smtc-ctrl-link-foreground-brand-alt-visited: #4007a2;
+    --bing-smtc-ctrl-search-box-background-rest: #fff;
+    --bing-smtc-ctrl-spinner-background-default: rgba(255, 255, 255, .85);
+    --bing-smtc-data-background-amber-default: #c66a00;
+    --bing-smtc-data-background-amber-strong: #be5a00;
+    --bing-smtc-data-background-amber-subtle: #fff1e9;
+    --bing-smtc-data-background-blue-default: #0072f0;
+    --bing-smtc-data-background-blue-strong: #0078d4;
+    --bing-smtc-data-background-blue-subtle: #edf4fe;
+    --bing-smtc-data-background-gray-default: #e0e0e0;
+    --bing-smtc-data-background-gray-strong: #4a4a4a;
+    --bing-smtc-data-background-gray-subtle: #f5f5f5;
+    --bing-smtc-data-background-green-default: #008935;
+    --bing-smtc-data-background-green-strong: #006d21;
+    --bing-smtc-data-background-green-subtle: #edf6e8;
+    --bing-smtc-data-background-red-default: #d94a4b;
+    --bing-smtc-data-background-red-strong: #c80000;
+    --bing-smtc-data-background-red-subtle: #fff0ef;
+    --bing-smtc-data-background-yellow-default: #f9ad01;
+    --bing-smtc-data-background-yellow-strong: #c87c00;
+    --bing-smtc-data-background-yellow-subtle: #fdf3dd;
+    --bing-smtc-data-foreground-amber-default: #be5a00;
+    --bing-smtc-data-foreground-amber-strong: #a84300;
+Show all properties (107 more)
+}
+html {
+    --bing-ads-smtc-ad-slug-corner: 6px;
+    --bing-ads-smtc-ad-slug-line-height: 11px;
+    --bing-ads-smtc-algo-site-name-line-height: 18px;
+    --bing-ads-smtc-algo-snippet-line-height: 24px;
+    --bing-ads-smtc-algo-title-line-height: 28px;
+    --bing-ads-smtc-algo-url-line-height: 20px;
+    --bing-ads-smtc-url-icon-padding-left: 1px;
+    --bing-ads-smtc-url-icon-padding-right: 6px;
+    --bing-smtc-text-global-body1: normal 400 18px / 28px var(--acf-font-family);
+    --bing-smtc-text-global-body1-strong: normal 700 18px / 28px var(--acf-font-family);
+    --bing-smtc-text-global-body2: normal 400 16px / 26px var(--acf-font-family);
+    --bing-smtc-text-global-body2-strong: normal 700 16px / 26px var(--acf-font-family);
+    --bing-smtc-text-global-body3: normal 400 14px / 22px var(--acf-font-family);
+    --bing-smtc-text-global-body3-strong: normal 700 14px / 22px var(--acf-font-family);
+    --bing-smtc-text-global-caption1: normal 400 13px / 20px var(--acf-font-family);
+    --bing-smtc-text-global-caption1-strong: normal 700 13px / 20px var(--acf-font-family);
+    --bing-smtc-text-global-caption2: normal 400 11px / 13px var(--acf-font-family);
+    --bing-smtc-text-global-caption2-strong: normal 700 11px / 13px var(--acf-font-family);
+    --bing-smtc-text-global-subtitle1: normal 400 20px / 26px var(--acf-font-family);
+    --bing-smtc-text-global-subtitle1-strong: normal 700 20px / 26px var(--acf-font-family);
+    --bing-smtc-text-global-subtitle2: normal 400 18px / 22px var(--acf-font-family);
+    --bing-smtc-text-global-subtitle2-strong: normal 700 18px / 22px var(--acf-font-family);
+    --mai-smtc-padding-card-nested-default: 12px;
+    --mai-smtc-padding-card-nested-xs-default: 8px;
+}
+html {
+    --acf-font-highlight-4: normal 700 40px / 48px var(--acf-font-family);
+    --acf-font-highlight-5: normal 700 36px / 48px var(--acf-font-family);
+}
+html {
+    --acf-font-body-2-mono: normal 400 14px / 22px 'Courier New', monospace;
+    --acf-font-title-1-strong: normal 700 14px / 22px var(--acf-font-family);
+    --acf-font-title-2-strong: normal 700 16px / 22px var(--acf-font-family);
+    --acf-font-title-4: normal 400 24px / 32px var(--acf-font-family);
+}
+html {
+    --acf-font-family: Roboto, Helvetica, Sans-Serif;
+}
+html {
+    --acf-elevation-0: 0 0 0 1px rgba(0, 0, 0, .05);
+    --acf-elevation-1: 0 0 0 1px rgba(0, 0, 0, .05), 0 2px 4px 1px rgba(0, 0, 0, .14);
+    --acf-elevation-2: 0 0 0 1px rgba(0, 0, 0, .05), 0 2px 4px 1px rgba(0, 0, 0, .18);
+    --acf-elevation-3: 0 0 0 1px rgba(0, 0, 0, .05), 0 4px 12px 1px rgba(0, 0, 0, .14);
+    --acf-elevation-4: -5px 4px 12px 0 rgba(0, 0, 0, .1);
+    --acf-elevation-strong-0: 0 0 0 1px rgba(0, 0, 0, .1);
+    --acf-elevation-strong-1: 0 0 0 1px rgba(0, 0, 0, .08), 0 2px 4px 1px rgba(0, 0, 0, .16);
+}
+html {
+    --acf-animation-duration-default: 300ms;
+    --acf-animation-duration-long: 800ms;
+    --acf-animation-duration-longer: 1200ms;
+    --acf-animation-duration-short: 200ms;
+    --acf-animation-ease-default: cubic-bezier(.3, 0, .3, 1);
+    --acf-animation-ease-loading: cubic-bezier(0, .2, .6, .6);
+}
+#b_topw::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: calc(-1 * var(--lgutter) - 20px);
+    width: 100vw;
+    pointer-events: none;
+    height: 2px;
+    background: var(--smtc-background-card-on-primary-default-pressed);
+    margin-bottom: -50px;
+}
